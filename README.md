@@ -1,2 +1,2 @@
 # Hello_World
-Please, edit to fit your own project's details
+This program shows "Hello world" on the screen
